@@ -1,3 +1,8 @@
+" If this file is getting used on a fresh unit then the vundle needs to be
+" installed first before it can be used properly
+" Once that is installed the other plugins need to be installed, this can be
+" done by issuing a :PluginInstall. This should grab the plugins from github
+" and install them.
 set nocompatible
 filetype off
 
